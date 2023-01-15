@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+    display: flex;
+}
+
+#container {
+    background-color: white;
+    width: 80%;
+    height: 200px;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+#temporizador {
+    font-size: 50px;
+    margin: auto;
+    font-weight: 400;
+    font-family: arial, sans-serif;
+}
+
+#quadrado {
+    margin: auto;
+}
